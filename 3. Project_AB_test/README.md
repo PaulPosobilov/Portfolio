@@ -1,6 +1,6 @@
 *ПРИМЕЧАНИЕ:   
 В данном проекте, для визуализации полученных результатов, используется интерактивный график из библиотеки plotly.   
-Для того, чтобы увидеть проект с корректно отображающимся графиком перейдите по ссылке:   https://nbviewer.org/github/PaulPosobilov/Portfolio/blob/main/3.%20Project_AB_test/Project_3_AB_test.ipynb
+Для того, чтобы увидеть проект с корректно отображающимся графиком перейдите по ссылке:*   https://nbviewer.org/github/PaulPosobilov/Portfolio/blob/main/3.%20Project_AB_test/Project_3_AB_test.ipynb
 
 # Анализ результатов A/B-теста  
 ## Описание проекта:  
