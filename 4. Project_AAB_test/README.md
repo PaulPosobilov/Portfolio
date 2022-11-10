@@ -1,6 +1,6 @@
 *ПРИМЕЧАНИЕ:   
 В данном проекте, для визуализации полученных результатов, используются интерактивный график из библиотеки plotly.   
-Для того, чтобы увидеть проект с корректно отображающимся графиком перейдите по ссылке:   https://nbviewer.org/github/PaulPosobilov/Portfolio/blob/main/Project_AB_test/Project_13_AB_test.ipynb*
+Для того, чтобы увидеть проект с корректно отображающимся графиком перейдите по ссылке:*   https://nbviewer.org/github/PaulPosobilov/Portfolio/blob/main/4.%20Project_AAB_test/project_4_AAB_test.ipynb
 
 # Изучение поведения пользователей в мобильном приложении  
 ## Описание проекта:  
